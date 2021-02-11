@@ -1,3 +1,6 @@
+# Adversarial Turing Patterns
+This repository contains the source code for our AAAI'21 paper titled [Adversarial Turing Patterns from Cellular Automata](https://arxiv.org/abs/2011.09393 "Adversarial Turing Patterns from Cellular Automata").
+
 Repository structure:
 
 * `experiments.ipynb` contains the whole pipeline of experiments
